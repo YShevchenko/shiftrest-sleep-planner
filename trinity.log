@@ -1,0 +1,4 @@
+[18:51:23] PREFLIGHT FAILED: Working tree is dirty — commit or stash changes before running Trinity
+[18:51:23] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[18:51:23] TRINITY CLEANUP — status=infrastructure_error
+[18:51:23] No trinity branch — skipping git ops
