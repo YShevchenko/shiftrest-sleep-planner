@@ -8,7 +8,7 @@
 - Product: Shift Worker Sleep
 - Product Type: Consumer mobile application
 - Intended Stack Context: React Native with Expo, SQLite local storage
-- Pricing Model: `$0.99` one-time purchase
+- Pricing Model: `$4.99` one-time purchase
 - Primary Platforms: iOS and Android phones
 - Scope of This Document: App overview, product vision, target audience, feature summary, monetization, and platform scope
 - Out of Scope for This Document: Detailed requirements, non-functional requirements, test planning, UI specs, data schemas, and implementation architecture
@@ -834,7 +834,7 @@ Shift Worker Sleep helps users make better sleep decisions around irregular work
 
 ### 11.3 Value at Purchase
 
-At `$0.99`, the value proposition should feel immediate and easy to understand:
+At `$4.99`, the value proposition should feel immediate and easy to understand:
 
 - Pay once
 - Enter your schedule
@@ -845,7 +845,7 @@ At `$0.99`, the value proposition should feel immediate and easy to understand:
 
 ### 12.1 Monetization Model
 
-Shift Worker Sleep is sold as a one-time paid app or one-time paid unlock priced at `$0.99`.
+Shift Worker Sleep is sold as a one-time paid app or one-time paid unlock priced at `$4.99`.
 
 ### 12.2 Rationale for One-Time Pricing
 
@@ -1172,3 +1172,12 @@ This specification covers:
 - Platform scope
 
 Detailed requirements, technical architecture, data modeling, UI specifications, and test artifacts belong in separate documents.
+
+
+## 6. Marketing & User Acquisition Strategy
+**Classification:** Tier 2 Smart Utility (Niche targeting)
+**Primary Ad Platforms:** Facebook & LinkedIn Ads.
+**Targeting:** Exact Job Titles ONLY: "Registered Nurse", "EMT", "Police Officer", "Warehouse Manager".
+**Core Hook:** "Generic sleep apps assume you go to bed at 10 PM. This app does the sleep math for your rotating shifts and quick turnarounds."
+**Geographic Strategy:** US/UK/Canada first. Shift work is universal, so translation to Spanish/French opens massive cheap-CPI markets.
+
