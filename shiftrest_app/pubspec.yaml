@@ -1,7 +1,7 @@
 name: shiftrest_app
 description: "Schedule-driven sleep planner for shift workers."
 publish_to: 'none'
-version: 1.0.2+2
+version: 1.0.3+3
 
 environment:
   sdk: ^3.11.3
