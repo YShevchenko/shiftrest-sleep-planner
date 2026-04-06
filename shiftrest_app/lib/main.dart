@@ -19,6 +19,7 @@ import 'services/iap_service.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
+
   // Set status bar style for dark theme
   SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
     statusBarColor: Colors.transparent,

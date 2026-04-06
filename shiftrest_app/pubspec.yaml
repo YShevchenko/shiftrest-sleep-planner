@@ -1,7 +1,7 @@
 name: shiftrest_app
 description: "Schedule-driven sleep planner for shift workers."
 publish_to: 'none'
-version: 1.0.3+3
+version: 1.0.10+10
 
 environment:
   sdk: ^3.11.3
@@ -40,14 +40,14 @@ flutter:
     - assets/sounds/brown_noise.mp3
     - assets/sounds/pink_noise.mp3
 
+flutter_native_splash:
+  color: "#312E81"
+  android: true
+  ios: true
+
 flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/icon/app_icon.png"
   remove_alpha_ios: true
-
-flutter_native_splash:
-  color: "#312E81"
-  image: "assets/icon/app_icon.png"
-  android: true
-  ios: true
+  min_sdk_android: 21
